@@ -96,4 +96,4 @@ The AZII Code standard introduces a clean, uniform encoding model for textual da
 | # | 97 | 1100001 | Hash |
 | $ | 98 | 1100010 | Dollar |
 | % | 99 | 1100011 | Percent |
-| & | 01 | 1100100 | Ampersand |
+| & | 01 | 0000001 | Ampersand |
