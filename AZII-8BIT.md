@@ -137,3 +137,13 @@ The AZII Code 8-bit standard extends the 7-bit version to support a wider range 
 | Φ | 137 | 10001001 | Greek Phi |
 | Ψ | 138 | 10001010 | Greek Psi |
 | Ω | 139 | 10001011 | Greek Omega |
+| ą | 200 | 11001000 | Lowercase a with tail |
+| ć | 201 | 11001001 | Lowercase c with acute |
+| ę | 202 | 11001010 | Lowercase e with tail |
+| ł | 203 | 11001011 | Lowercase l with stroke |
+| ń | 204 | 11001100 | Lowercase n with acute |
+| ó | 205 | 11001101 | Lowercase o with acute |
+| ś | 206 | 11001110 | Lowercase s with acute |
+| ź | 207 | 11001111 | Lowercase z with acute |
+| ż | 208 | 11010000 | Lowercase z with dot above |
+
