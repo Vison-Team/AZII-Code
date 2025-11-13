@@ -1,6 +1,6 @@
 # AZII Code 8-bit
 
-The AZII Code 8-bit standard extends the 7-bit version to support a wider range of characters, including international letters, additional symbols, and special characters. Each character is represented by a unique numeric code in the range 11–255, fully compatible with binary conversion.
+The AZII Code standard introduces a clean, uniform encoding model for textual data representation. Its design simplifies binary conversion, enhances readability, and provides a deterministic mapping between characters and numeric codes, offering an alternative to traditional ASCII encoding schemes.
 
 ---
 
